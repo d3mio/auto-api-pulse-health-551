@@ -1,43 +1,8 @@
-# ApiPulse — Real-Time Endpoint Health Guard #551
+# ApiPulse Studio — Visual HTTP Endpoint Latency Monitor GUI
 
-> Lightweight async HTTP endpoint monitor with latency metrics.
+Graphical desktop app tracking API uptime, HTTP status codes, latency gauges, and SLA graphs.
 
-![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
-![AI Generated](https://img.shields.io/badge/AI-Generated-10b981?style=flat-square)
-
----
-
-## Features
-
-- Sub-millisecond HTTP latency measurement
-- HTTP status code validation
-- Multi-target batch monitoring
-- Clean status report output
-
----
-
-## Quick Start
-
-### Prerequisites
-Python 3.10+
-
-### Installation
+## 🚀 Quick Start
 ```bash
-git clone https://github.com/d3mio/auto-api-pulse-health-551
-cd auto-api-pulse-health-551
-pip install -r requirements.txt
+python gui_app.py
 ```
-
-### Usage
-```bash
-python api_pulse.py
-```
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
-
-*Built by the AI Project Factory*
